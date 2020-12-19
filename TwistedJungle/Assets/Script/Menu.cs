@@ -16,6 +16,7 @@ public class Menu : MonoBehaviour
     {
         if (Input.anyKeyDown)
         {
+            
             SceneManager.LoadScene("Level1");
         }
     }

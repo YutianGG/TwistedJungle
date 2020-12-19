@@ -37,6 +37,7 @@ public class GameManager : MonoBehaviour
     private void BakeToMenu()
     {
         if (live == 0 && Input.GetKeyDown(KeyCode.R)) SceneManager.LoadScene("Menu");
+        live = 3;
     }
 
     private void QuitGame()
