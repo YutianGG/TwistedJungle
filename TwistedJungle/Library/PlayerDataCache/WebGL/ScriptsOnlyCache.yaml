@@ -10,6 +10,8 @@ ScriptsOnlyBuild:
     - Shot
     - Win
     Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
@@ -76,27 +78,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11396}
+      Script: {instanceID: 11296}
     - Class: 114
-      Script: {instanceID: 11640}
+      Script: {instanceID: 11540}
     - Class: 114
-      Script: {instanceID: 11690}
+      Script: {instanceID: 11590}
     - Class: 114
-      Script: {instanceID: 12138}
+      Script: {instanceID: 12038}
     - Class: 114
-      Script: {instanceID: 12154}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 12446}
+      Script: {instanceID: 12346}
     - Class: 114
-      Script: {instanceID: 12502}
+      Script: {instanceID: 12402}
     - Class: 114
-      Script: {instanceID: 13288}
+      Script: {instanceID: 13192}
     - Class: 114
-      Script: {instanceID: 13664}
+      Script: {instanceID: 13568}
     - Class: 114
-      Script: {instanceID: 13742}
+      Script: {instanceID: 13646}
     - Class: 114
-      Script: {instanceID: 13746}
+      Script: {instanceID: 13650}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -159,13 +161,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11396}
+      Script: {instanceID: 11296}
     - Class: 114
-      Script: {instanceID: 12056}
+      Script: {instanceID: 11956}
     - Class: 114
-      Script: {instanceID: 12306}
+      Script: {instanceID: 12206}
     - Class: 114
-      Script: {instanceID: 13288}
+      Script: {instanceID: 13192}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -208,17 +210,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11396}
+      Script: {instanceID: 11296}
     - Class: 114
-      Script: {instanceID: 11640}
+      Script: {instanceID: 11540}
     - Class: 114
-      Script: {instanceID: 11642}
+      Script: {instanceID: 11542}
     - Class: 114
-      Script: {instanceID: 12154}
+      Script: {instanceID: 12054}
     - Class: 114
-      Script: {instanceID: 13288}
+      Script: {instanceID: 13192}
     - Class: 114
-      Script: {instanceID: 13742}
+      Script: {instanceID: 13646}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
